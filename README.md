@@ -11,6 +11,8 @@ I perfomed the first analysis using a pivot chart and used a line graph to displ
 ### What are two conclusions you can draw about the Outcomes based on Launch Date? 
 * One conclusion is that the successful rate of theatre kickstarter projects were around the months of May until August (with the most successful month being May). This may suggest that more successful projects were launched around the Spring/ Summer season. 
 * Another conclusion that relates to this trend is that the failed projects spiked in October where successful projects also began to dive down.
+![image](https://user-images.githubusercontent.com/81877387/147509422-f6f54c5a-3572-4f17-bd7f-545e20041d27.png)
+
 
 ### What can you conclude about the Outcomes based on Goals?
 The most successful projects had goals that were less than $1000. The graph also supports this trend by showing that the rate of failed projects were higher when the goal was set higher than $1000.
