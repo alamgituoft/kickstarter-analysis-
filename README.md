@@ -2,6 +2,7 @@
 
 ## Overview of Project: An analysis of kickstarter play projects outcomes based on launch dates and goals
 The purpose of this project is to analyze the outcomes of kickstarter play projects based on their launch dates and goals to find any trends on these two variables.
+
 ![image](https://user-images.githubusercontent.com/81877387/147509275-80e05fa0-47f5-479d-98dd-c0c7cbc967b4.png)
 
 ## Analysis and Challenges:
