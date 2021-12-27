@@ -1,8 +1,8 @@
 # Analysis of Kickstarter Campaigns
-![image](https://user-images.githubusercontent.com/81877387/147509275-80e05fa0-47f5-479d-98dd-c0c7cbc967b4.png)
 
 ## Overview of Project: An analysis of kickstarter play projects outcomes based on launch dates and goals
 The purpose of this project is to analyze the outcomes of kickstarter play projects based on their launch dates and goals to find any trends on these two variables.
+![image](https://user-images.githubusercontent.com/81877387/147509275-80e05fa0-47f5-479d-98dd-c0c7cbc967b4.png)
 
 ## Analysis and Challenges:
 I perfomed the first analysis using a pivot chart and used a line graph to display the results for Theater outcomes based on launch dates. For the second analysis, I created a new sheet to look at outcomes based on goals data and used a line graph to display the results. One challenge would be that the data provided is very broad, covering a lot of different kickstarter projects of several categories in different countries. Due to this range, this may have produced a lot of irrelevant data or used a lot of resources for the projects, which could be narrowed down which may be more relevant and successful to Louise's goals e.g. kickstarting play projects in the U.S.
